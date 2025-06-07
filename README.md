@@ -29,7 +29,7 @@ We recommend following this file structure:
 - *`tilesets/`*: All PNG tilesets
 
 > [!TIP]
-> - If you want to use more than one map file, just add the new map file in the root folder (we recommend creating a copy of *office.tmj* and editing it to avoid any mistakes).
+> - If you want to use more than one map file, just add the new map file in the root folder (we recommend creating a copy of *pier.tmj* and editing it to avoid any mistakes).
 > - We recommend using **512x512** images for the map thumbnails.
 > - If you are going to create custom websites to embed in the map, please reference the HTML files in the `input` option in *vite.config.js*.
 
@@ -79,7 +79,7 @@ Read [the documentation](https://docs.workadventu.re/map-building/tiled-editor/p
 This project contains multiple licenses as follows:
 
 * [Code license](./LICENSE.code) *(all files except those for other licenses)*
-* [Map license](./LICENSE.map) *(`office.tmj` and the map visual as well)*
+* [Map license](./LICENSE.map) *(`pier.tmj` and the map visual as well)*
 * [Assets license](./LICENSE.assets) *(the files inside the `tilesets/` folder)*
 
 > [!IMPORTANT]
